@@ -1,5 +1,5 @@
 # MNIST_MLOps
 
-## Logger: \
+## Logger: 
 - WandB(Weights & Biases)
 - ClearML
